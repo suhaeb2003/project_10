@@ -1,0 +1,17 @@
+@media only screen and (max-width:1024px){
+    #login_form_section>.row>#logo {
+        background-size: cover,191%, cover;
+        background-position: 109% -28%;
+    }
+    .form-responce {
+        width: 76% !important;
+    }
+}
+@media only screen and (max-width:768px){
+    .top_button {
+        width: 50% !important;
+    }
+    .windows>p {
+        font-size: 16px !important;
+    }
+}
